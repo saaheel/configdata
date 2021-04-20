@@ -1,0 +1,7 @@
+[Twitter Post]
+
+
+define('TWITTER_ACCESS_TOKEN','1002295806-pAPpogPGOPe9zsfIAmJodU56ezXrbxo83cyRNx9');
+define('TWITTER_ACCESS_TOKEN_SECRET','RMJIZxVZH63tQ2uuv4VWtrqEdoDm1uERvljVibTBo8Zec');
+define('TWITTER_CONSUMER_KEY','qWta0tz7Tnl7HB61rBYnwWwjh');
+define('TWITTER_CONSUMER_SECRET','07j5rpwQqQxbJkkTmT2r3PrdJeWGjv3SU1jjpdIPUfsiUuIzmv');
